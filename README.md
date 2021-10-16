@@ -1,7 +1,15 @@
 # Tennis-Robot-Ball-Collector-Face-Recognition-and-Vision-Code
+
+
 This code controls a tennis ball robot collector that collects balls using ML and Computer Vision.
 
+The robot operates by scanning the user's face. If the face is known and in the data set, then the robot will start operating.
 
 
-https://user-images.githubusercontent.com/89541126/137590436-75c8cf2e-5d4a-4137-a008-8a7fd004b651.mov
+
+
+
+Take a look! 
+
+https://user-images.githubusercontent.com/89541126/137590511-cd1290a2-ed7e-42db-83a2-c5e2742efaaa.mp4
 
